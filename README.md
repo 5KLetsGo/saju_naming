@@ -2,7 +2,12 @@
 This project uses Gemma 2 fine-tuning to implement a model that explains dates of birth to interpret meanings of Sajupalja to users and generate related Korean names.
 
 ## Demo/Snapshot
-https://github.com/user-attachments/assets/33673fcd-73f2-4425-9d08-1383808ddbd1
+https://github.com/user-attachments/assets/a7306b28-e6e2-4a9d-a131-136dcac0f8f7
+
+![saju_naming_cli](https://github.com/user-attachments/assets/6d75b356-b925-4780-b750-b7e2a1144051)
+
+
+
 
 
 ### Model Description
