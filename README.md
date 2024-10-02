@@ -31,7 +31,17 @@ https://github.com/user-attachments/assets/a7306b28-e6e2-4a9d-a131-136dcac0f8f7
 
 ### Dataset
 - crawled : 수집한 데이터
+  - 한국 남자 이름
+  - 한국 여자 이름
+  - 인명 한자
+  - 음양력 날짜
 - prompt : 학습시킨 (질문, 답변) 형식의 prompt
+  - 자원 오행 별 인명 한자 prompt
+  - 자원 오행 해석 prompt
+  - 한국 남자 이름 prompt
+  - 한국 여자 이름 prompt
+  - 자원 오행을 활용한 작명 prompt
+  - 이름 의미 prompt
 
 ## 데이터
 - 2008 ~ 2024년도 대한민국 신생아 이름 통계 [대한민국 법원 > 전자가족관계시스템](https://efamily.scourt.go.kr)
