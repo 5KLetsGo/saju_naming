@@ -29,6 +29,10 @@ https://github.com/user-attachments/assets/a7306b28-e6e2-4a9d-a131-136dcac0f8f7
 ### Model Source
 - **Hugging Face Repository:** https://huggingface.co/5KLetsGo/saju-naming
 
+### Dataset
+- crawled : 수집한 데이터
+- prompt : 학습시킨 (질문, 답변) 형식의 prompt
+
 ## 데이터
 - 2008 ~ 2024년도 대한민국 신생아 이름 통계 [대한민국 법원 > 전자가족관계시스템](https://efamily.scourt.go.kr)
 - 대한민국 인명용 한자 사전 [대한민국 법원](http://help.scourt.go.kr)
