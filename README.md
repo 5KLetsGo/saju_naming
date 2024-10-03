@@ -7,9 +7,6 @@ Gemma 2 모델을 fine-tuning하여
 아래의 영상은 해당 저장소에 있는 [saju_naming_server.ipynb](https://github.com/5KLetsGo/saju_naming/blob/main/saju_naming_fine_tuning.ipynb)를 Google Colab에서 실행하여 서버를 연 후,  
 [saju_naming_web](https://5kletsgo.github.io/saju_naming_web/)에서 시연한 영상이다.  
 
-서버는 flask와 ngrok를 이용하여 외부에서 로컬 서버로 접근할 수 있도록 구현하였으며 매 실행마다 접근할 수 있는 도메인이 달라진다.  
-(ngrok이 무료기 때문이다.)
-
 https://github.com/user-attachments/assets/a7306b28-e6e2-4a9d-a131-136dcac0f8f7
 
 
